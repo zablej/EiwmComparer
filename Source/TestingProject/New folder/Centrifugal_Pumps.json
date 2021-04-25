@@ -1,0 +1,104 @@
+{
+  "Session": "AVEVA Date: Tuesday 27-10-2020 17:03:00",
+  "Objects": [
+    {
+      "Id": "/P1503B",
+      "Context": "PROJECTCONTEXT",
+      "Attributes": [],
+      "Associations": [
+        {
+          "Type": "has child",
+          "Objects": [
+            {
+              "Id": "P1503B/N1",
+              "Context": "PROJECTCONTEXT"
+            },
+            {
+              "Id": "P1503B/N2",
+              "Context": "PROJECTCONTEXT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": "P1503B/N1",
+      "Context": "PROJECTCONTEXT",
+      "Attributes": [],
+      "Associations": []
+    },
+    {
+      "Id": "P1503B/N2",
+      "Context": "PROJECTCONTEXT",
+      "Attributes": [],
+      "Associations": []
+    },
+    {
+      "Id": "P1501A/N1",
+      "Context": "PROJECTCONTEXT",
+      "Attributes": [],
+      "Associations": []
+    },
+    {
+      "Id": "P1501A/N2",
+      "Context": "PROJECTCONTEXT",
+      "Attributes": [],
+      "Associations": []
+    },
+    {
+      "Id": "P1502A/N1",
+      "Context": "PROJECTCONTEXT",
+      "Attributes": [],
+      "Associations": []
+    },
+    {
+      "Id": "P1502A/N2",
+      "Context": "PROJECTCONTEXT",
+      "Attributes": [],
+      "Associations": []
+    },
+    {
+      "Id": "P1502B/N3",
+      "Context": "PROJECTCONTEXT",
+      "Attributes": [],
+      "Associations": []
+    },
+    {
+      "Id": "P1502B/N2",
+      "Context": "PROJECTCONTEXT",
+      "Attributes": [],
+      "Associations": []
+    },
+    {
+      "Id": "P1502B/N1",
+      "Context": "PROJECTCONTEXT",
+      "Attributes": [],
+      "Associations": []
+    },
+    {
+      "Id": "P1501B/N1",
+      "Context": "PROJECTCONTEXT",
+      "Attributes": [],
+      "Associations": []
+    },
+    {
+      "Id": "P1501B/N2",
+      "Context": "PROJECTCONTEXT",
+      "Attributes": [],
+      "Associations": []
+    },
+    {
+      "Id": "/P1501A",
+      "Context": "PROJECTCONTEXT",
+      "Attributes": [],
+      "Associations": [
+        {
+          "Type": "has child",
+          "Objects": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}
