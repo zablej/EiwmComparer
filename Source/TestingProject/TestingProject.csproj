@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ComparingEngine\ComparingEngine.csproj" />
     <ProjectReference Include="..\EiwmModel\EiwmModel.csproj" />
   </ItemGroup>
 
